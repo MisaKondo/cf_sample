@@ -116,7 +116,7 @@
             "packages" : {
               "yum" : {
                 "mysql-5.1.50"        : [],
-                "mysqlclient15-5.0.67-1.el5.remi"
+                "mysqlclient15-5.0.67-1.el5.remi": [],
                 "mysql-libs-5.5.16-1.el5.remi"   : [],
                 "httpd-2.2.3-43.el5.centos.3"        : [],
                 "php-5.3.8-1.el5.remi"          : [],
